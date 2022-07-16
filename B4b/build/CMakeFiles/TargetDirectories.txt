@@ -1,0 +1,7 @@
+/home/shokr/gen/geant4-v11.0.1/examples/basic/B4/B4b/build/CMakeFiles/exampleB4b.dir
+/home/shokr/gen/geant4-v11.0.1/examples/basic/B4/B4b/build/CMakeFiles/edit_cache.dir
+/home/shokr/gen/geant4-v11.0.1/examples/basic/B4/B4b/build/CMakeFiles/rebuild_cache.dir
+/home/shokr/gen/geant4-v11.0.1/examples/basic/B4/B4b/build/CMakeFiles/list_install_components.dir
+/home/shokr/gen/geant4-v11.0.1/examples/basic/B4/B4b/build/CMakeFiles/install.dir
+/home/shokr/gen/geant4-v11.0.1/examples/basic/B4/B4b/build/CMakeFiles/install/local.dir
+/home/shokr/gen/geant4-v11.0.1/examples/basic/B4/B4b/build/CMakeFiles/install/strip.dir

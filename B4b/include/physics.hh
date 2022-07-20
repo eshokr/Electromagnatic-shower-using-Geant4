@@ -3,6 +3,10 @@
 
 #include "G4VModularPhysicsList.hh"
 #include "G4EmStandardPhysics.hh"
+#include "G4EmStandardPhysics_option1.hh"
+#include "G4EmStandardPhysics_opiton2.hh"
+#include "G4EmStandardPhysics_option3.hh"
+
 #include "G4OpticalPhysics.hh"
 #include "G4RadioactiveDecayPhysics.hh"
 #include "G4DecayPhysics.hh"
